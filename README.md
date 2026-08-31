@@ -26,19 +26,19 @@ MS in Computer Science. Currently building AI-powered products and looking for s
 
 ## Featured Projects
 
-### 🎙️ [PromptCue](https://github.com/krisha-parikh/promptcue) — Real-time AI meeting copilot
+### 🎙️ [PromptCue](https://github.com/krisha-parikh/PromtCue) — Real-time AI meeting copilot
 Built solo, end to end. Live transcription and retrieval-augmented suggestions during a meeting, with sub-2-second streaming latency. The latency win came from profiling the full request path and streaming tokens over the fetch ReadableStream API instead of waiting on the model alone.
 **Stack:** FastAPI, React, RAG (ChromaDB), LangGraph, Groq Whisper
 
-### 💬 [Chatify](https://github.com/krisha-parikh/chatify) — Microservices chat app
+### 💬 [Chatify](https://github.com/krisha-parikh/FSD-Chat-App-Mini-Project) — Microservices chat app
 Real-time chat serving 1,000+ users, with a 25% latency reduction after refactoring the service boundaries and auth flow.
 **Stack:** Node.js microservices, JWT auth, MongoDB, React
 
-### 📊 [DroomScroll](https://github.com/krisha-parikh/droomscroll) — YouTube comment analytics pipeline
+### 📊 [DroomScroll](https://github.com/krisha-parikh/Droom-scroll) — YouTube comment analytics pipeline
 Batch analytics over YouTube comments, processing ~20K records per batch with orchestrated ingestion and transformation. A Django/DRF variant exists for a separate use case.
 **Stack:** FastAPI, PySpark, n8n
 
-### 🌦️ [Weather Data Pipeline](https://github.com/krisha-parikh/weather-data-pipeline) — AWS ETL
+### 🌦️ [Weather Data Pipeline](https://github.com/krisha-parikh/Data-pipeline) — AWS ETL
 Time-series weather ETL with retry logic and partitioning built in, so the pipeline degrades gracefully instead of dropping data when a source hiccups.
 **Stack:** AWS, PostgreSQL, Python
 
