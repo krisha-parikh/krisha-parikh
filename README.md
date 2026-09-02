@@ -20,7 +20,7 @@ MS in Computer Science. Currently building AI-powered products and looking for s
 
 **Databases:** PostgreSQL, MongoDB, ChromaDB
 
-**Cloud / DevOps:** AWS, Terraform, Azure (AZ-900 certified)
+**Cloud / DevOps:** AWS (EC2, S3, Lambda, RDS), Azure (AZ-900 certified)
 
 ---
 
